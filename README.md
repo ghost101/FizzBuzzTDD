@@ -1,7 +1,8 @@
 # FizzBuzzTDD - Walkthrough
 _Author: Abdul Hamid_
 
-This walkthrough documents the steps taken to implement the FizzBuzz problem using a Test-Driven Development (TDD) approach in Visual Studio 2022 using C# and xUnit.
+Steps taken to implement the FizzBuzz problem using a Test-Driven Development (TDD) approach in Visual Studio 2022 using C# and xUnit.
+See FizzBuzzTDD Walkthrough.pdf for screen shots of test output.
 
 ---
 
