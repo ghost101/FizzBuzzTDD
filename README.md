@@ -18,14 +18,12 @@ This walkthrough documents the steps taken to implement the FizzBuzz problem usi
 - Added a **project reference** from the test project to the app project
 - Wrote the first test:
   ```csharp
- [Fact]
-public void ReturnNumberAsString()
-{
-    var fizzBuzz = new FizzBuzz();
-    string result = fizzBuzz.GetNum(1);
-    Assert.Equal("1", result);
-}
-
+  public void ReturnNumberAsString()
+  {
+      var fizzBuzz = new FizzBuzz();
+      string result = fizzBuzz.GetNum(1);
+      Assert.Equal("1", result);
+  }
   ```
 
 ---
